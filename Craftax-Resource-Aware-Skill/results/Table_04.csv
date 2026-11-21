@@ -1,0 +1,6 @@
+﻿condition,episodes,starts,goal_complete,completion_percent,skill_primitives,at_16_step_limit,exceeds_16,confirmed_skill_deaths,resource_depletion_episodes,sleep_bad_handoff_episodes,resource_or_sleep_stop_code3
+G0,4096,1753,761,43.411294922989164,16344,735,0,102,157,0,155
+G1,4096,1512,1197,79.16666666666667,8128,210,0,69,36,0,36
+G2,4096,1641,873,53.19926873857404,9418,315,0,64,390,0,389
+G3,4096,1528,712,46.596858638743456,12781,561,0,79,178,0,176
+RULE,4096,1423,1168,82.08011243851018,6843,176,0,74,5,0,5

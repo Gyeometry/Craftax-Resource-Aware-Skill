@@ -1,0 +1,45 @@
+{
+  "passed": true,
+  "complete_episode_checks": [
+    {
+      "test": "cpu_complete",
+      "evaluated": 5,
+      "matched": 5,
+      "unmatched": 0,
+      "censored": 0,
+      "exact_return_count": 5,
+      "exact_length_count": 5,
+      "exact_achievement_count": 5,
+      "note": "표본 일부의 일치가 전체 평가 재현 또는 환경 간 동등성을 보장하지 않는다."
+    },
+    {
+      "test": "cpu_intervention",
+      "evaluated": 6,
+      "matched": 6,
+      "unmatched": 0,
+      "censored": 0,
+      "exact_return_count": 6,
+      "exact_length_count": 6,
+      "exact_achievement_count": 6,
+      "note": "표본 일부의 일치가 전체 평가 재현 또는 환경 간 동등성을 보장하지 않는다."
+    },
+    {
+      "test": "cpu_phase55",
+      "evaluated": 7,
+      "matched": 7,
+      "unmatched": 0,
+      "censored": 0,
+      "exact_return_count": 7,
+      "exact_length_count": 7,
+      "exact_achievement_count": 7,
+      "note": "표본 일부의 일치가 전체 평가 재현 또는 환경 간 동등성을 보장하지 않는다."
+    }
+  ],
+  "original_sources_verified": 428,
+  "original_sources_unchanged": true,
+  "new_training_updates": 0,
+  "paid_API_calls": 0,
+  "complete_large_evaluation_rerun": false,
+  "clean_windows_install_tested": false,
+  "tests_use_existing_development_worlds": true
+}

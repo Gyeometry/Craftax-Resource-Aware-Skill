@@ -1,0 +1,778 @@
+{
+  "goal_actions": [
+    {
+      "action_id": 13,
+      "action_name": "MAKE_IRON_PICKAXE",
+      "resource_lower": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "positive_helper_predicates": [
+        1,
+        2
+      ],
+      "known_scope_expression": {
+        "op": "where",
+        "args": [
+          false,
+          false,
+          {
+            "op": "BitAnd",
+            "args": [
+              {
+                "op": "BitAnd",
+                "args": [
+                  {
+                    "op": "BitAnd",
+                    "args": [
+                      {
+                        "op": "helper_output",
+                        "args": [],
+                        "index": 1
+                      },
+                      {
+                        "op": "helper_output",
+                        "args": [],
+                        "index": 2
+                      }
+                    ]
+                  },
+                  {
+                    "op": "BitAnd",
+                    "args": [
+                      {
+                        "op": "BitAnd",
+                        "args": [
+                          {
+                            "op": "BitAnd",
+                            "args": [
+                              {
+                                "op": "GtE",
+                                "args": [
+                                  {
+                                    "op": "index",
+                                    "args": [
+                                      {
+                                        "op": "helper_output",
+                                        "args": [],
+                                        "index": 0
+                                      }
+                                    ],
+                                    "index": [
+                                      "ELLIPSIS",
+                                      0
+                                    ]
+                                  },
+                                  1
+                                ]
+                              },
+                              {
+                                "op": "GtE",
+                                "args": [
+                                  {
+                                    "op": "index",
+                                    "args": [
+                                      {
+                                        "op": "helper_output",
+                                        "args": [],
+                                        "index": 0
+                                      }
+                                    ],
+                                    "index": [
+                                      "ELLIPSIS",
+                                      1
+                                    ]
+                                  },
+                                  1
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "op": "GtE",
+                            "args": [
+                              {
+                                "op": "index",
+                                "args": [
+                                  {
+                                    "op": "helper_output",
+                                    "args": [],
+                                    "index": 0
+                                  }
+                                ],
+                                "index": [
+                                  "ELLIPSIS",
+                                  3
+                                ]
+                              },
+                              1
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "op": "GtE",
+                        "args": [
+                          {
+                            "op": "index",
+                            "args": [
+                              {
+                                "op": "helper_output",
+                                "args": [],
+                                "index": 0
+                              }
+                            ],
+                            "index": [
+                              "ELLIPSIS",
+                              2
+                            ]
+                          },
+                          1
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "op": "Eq",
+                "args": [
+                  {
+                    "op": "index",
+                    "args": [
+                      {
+                        "op": "helper_output",
+                        "args": [],
+                        "index": 0
+                      }
+                    ],
+                    "index": [
+                      "ELLIPSIS",
+                      8
+                    ]
+                  },
+                  0
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "full_original_expression": {
+        "op": "where",
+        "args": [
+          {
+            "op": "index",
+            "args": [
+              {
+                "op": "helper_output",
+                "args": [],
+                "index": 7
+              }
+            ],
+            "index": [
+              "ELLIPSIS",
+              null
+            ]
+          },
+          false,
+          {
+            "op": "BitOr",
+            "args": [
+              {
+                "op": "BitAnd",
+                "args": [
+                  {
+                    "op": "BitAnd",
+                    "args": [
+                      {
+                        "op": "BitAnd",
+                        "args": [
+                          {
+                            "op": "BitOr",
+                            "args": [
+                              {
+                                "op": "helper_output",
+                                "args": [],
+                                "index": 1
+                              },
+                              {
+                                "op": "Invert",
+                                "args": [
+                                  {
+                                    "op": "helper_output",
+                                    "args": [],
+                                    "index": 3
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "op": "BitOr",
+                            "args": [
+                              {
+                                "op": "helper_output",
+                                "args": [],
+                                "index": 2
+                              },
+                              {
+                                "op": "Invert",
+                                "args": [
+                                  {
+                                    "op": "helper_output",
+                                    "args": [],
+                                    "index": 3
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "op": "BitAnd",
+                        "args": [
+                          {
+                            "op": "BitAnd",
+                            "args": [
+                              {
+                                "op": "BitAnd",
+                                "args": [
+                                  {
+                                    "op": "GtE",
+                                    "args": [
+                                      {
+                                        "op": "index",
+                                        "args": [
+                                          {
+                                            "op": "helper_output",
+                                            "args": [],
+                                            "index": 0
+                                          }
+                                        ],
+                                        "index": [
+                                          "ELLIPSIS",
+                                          0
+                                        ]
+                                      },
+                                      1
+                                    ]
+                                  },
+                                  {
+                                    "op": "GtE",
+                                    "args": [
+                                      {
+                                        "op": "index",
+                                        "args": [
+                                          {
+                                            "op": "helper_output",
+                                            "args": [],
+                                            "index": 0
+                                          }
+                                        ],
+                                        "index": [
+                                          "ELLIPSIS",
+                                          1
+                                        ]
+                                      },
+                                      1
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "op": "GtE",
+                                "args": [
+                                  {
+                                    "op": "index",
+                                    "args": [
+                                      {
+                                        "op": "helper_output",
+                                        "args": [],
+                                        "index": 0
+                                      }
+                                    ],
+                                    "index": [
+                                      "ELLIPSIS",
+                                      3
+                                    ]
+                                  },
+                                  1
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "op": "GtE",
+                            "args": [
+                              {
+                                "op": "index",
+                                "args": [
+                                  {
+                                    "op": "helper_output",
+                                    "args": [],
+                                    "index": 0
+                                  }
+                                ],
+                                "index": [
+                                  "ELLIPSIS",
+                                  2
+                                ]
+                              },
+                              1
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "op": "Eq",
+                    "args": [
+                      {
+                        "op": "index",
+                        "args": [
+                          {
+                            "op": "helper_output",
+                            "args": [],
+                            "index": 0
+                          }
+                        ],
+                        "index": [
+                          "ELLIPSIS",
+                          8
+                        ]
+                      },
+                      0
+                    ]
+                  }
+                ]
+              },
+              {
+                "op": "Invert",
+                "args": [
+                  {
+                    "op": "helper_output",
+                    "args": [],
+                    "index": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "action_id": 16,
+      "action_name": "MAKE_IRON_SWORD",
+      "resource_lower": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "positive_helper_predicates": [
+        1,
+        2
+      ],
+      "known_scope_expression": {
+        "op": "where",
+        "args": [
+          false,
+          false,
+          {
+            "op": "BitAnd",
+            "args": [
+              {
+                "op": "BitAnd",
+                "args": [
+                  {
+                    "op": "BitAnd",
+                    "args": [
+                      {
+                        "op": "helper_output",
+                        "args": [],
+                        "index": 1
+                      },
+                      {
+                        "op": "helper_output",
+                        "args": [],
+                        "index": 2
+                      }
+                    ]
+                  },
+                  {
+                    "op": "BitAnd",
+                    "args": [
+                      {
+                        "op": "BitAnd",
+                        "args": [
+                          {
+                            "op": "BitAnd",
+                            "args": [
+                              {
+                                "op": "GtE",
+                                "args": [
+                                  {
+                                    "op": "index",
+                                    "args": [
+                                      {
+                                        "op": "helper_output",
+                                        "args": [],
+                                        "index": 0
+                                      }
+                                    ],
+                                    "index": [
+                                      "ELLIPSIS",
+                                      0
+                                    ]
+                                  },
+                                  1
+                                ]
+                              },
+                              {
+                                "op": "GtE",
+                                "args": [
+                                  {
+                                    "op": "index",
+                                    "args": [
+                                      {
+                                        "op": "helper_output",
+                                        "args": [],
+                                        "index": 0
+                                      }
+                                    ],
+                                    "index": [
+                                      "ELLIPSIS",
+                                      1
+                                    ]
+                                  },
+                                  1
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "op": "GtE",
+                            "args": [
+                              {
+                                "op": "index",
+                                "args": [
+                                  {
+                                    "op": "helper_output",
+                                    "args": [],
+                                    "index": 0
+                                  }
+                                ],
+                                "index": [
+                                  "ELLIPSIS",
+                                  3
+                                ]
+                              },
+                              1
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "op": "GtE",
+                        "args": [
+                          {
+                            "op": "index",
+                            "args": [
+                              {
+                                "op": "helper_output",
+                                "args": [],
+                                "index": 0
+                              }
+                            ],
+                            "index": [
+                              "ELLIPSIS",
+                              2
+                            ]
+                          },
+                          1
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "op": "Eq",
+                "args": [
+                  {
+                    "op": "index",
+                    "args": [
+                      {
+                        "op": "helper_output",
+                        "args": [],
+                        "index": 0
+                      }
+                    ],
+                    "index": [
+                      "ELLIPSIS",
+                      11
+                    ]
+                  },
+                  0
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "full_original_expression": {
+        "op": "where",
+        "args": [
+          {
+            "op": "index",
+            "args": [
+              {
+                "op": "helper_output",
+                "args": [],
+                "index": 7
+              }
+            ],
+            "index": [
+              "ELLIPSIS",
+              null
+            ]
+          },
+          false,
+          {
+            "op": "BitOr",
+            "args": [
+              {
+                "op": "BitAnd",
+                "args": [
+                  {
+                    "op": "BitAnd",
+                    "args": [
+                      {
+                        "op": "BitAnd",
+                        "args": [
+                          {
+                            "op": "BitOr",
+                            "args": [
+                              {
+                                "op": "helper_output",
+                                "args": [],
+                                "index": 1
+                              },
+                              {
+                                "op": "Invert",
+                                "args": [
+                                  {
+                                    "op": "helper_output",
+                                    "args": [],
+                                    "index": 3
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "op": "BitOr",
+                            "args": [
+                              {
+                                "op": "helper_output",
+                                "args": [],
+                                "index": 2
+                              },
+                              {
+                                "op": "Invert",
+                                "args": [
+                                  {
+                                    "op": "helper_output",
+                                    "args": [],
+                                    "index": 3
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "op": "BitAnd",
+                        "args": [
+                          {
+                            "op": "BitAnd",
+                            "args": [
+                              {
+                                "op": "BitAnd",
+                                "args": [
+                                  {
+                                    "op": "GtE",
+                                    "args": [
+                                      {
+                                        "op": "index",
+                                        "args": [
+                                          {
+                                            "op": "helper_output",
+                                            "args": [],
+                                            "index": 0
+                                          }
+                                        ],
+                                        "index": [
+                                          "ELLIPSIS",
+                                          0
+                                        ]
+                                      },
+                                      1
+                                    ]
+                                  },
+                                  {
+                                    "op": "GtE",
+                                    "args": [
+                                      {
+                                        "op": "index",
+                                        "args": [
+                                          {
+                                            "op": "helper_output",
+                                            "args": [],
+                                            "index": 0
+                                          }
+                                        ],
+                                        "index": [
+                                          "ELLIPSIS",
+                                          1
+                                        ]
+                                      },
+                                      1
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "op": "GtE",
+                                "args": [
+                                  {
+                                    "op": "index",
+                                    "args": [
+                                      {
+                                        "op": "helper_output",
+                                        "args": [],
+                                        "index": 0
+                                      }
+                                    ],
+                                    "index": [
+                                      "ELLIPSIS",
+                                      3
+                                    ]
+                                  },
+                                  1
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "op": "GtE",
+                            "args": [
+                              {
+                                "op": "index",
+                                "args": [
+                                  {
+                                    "op": "helper_output",
+                                    "args": [],
+                                    "index": 0
+                                  }
+                                ],
+                                "index": [
+                                  "ELLIPSIS",
+                                  2
+                                ]
+                              },
+                              1
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "op": "Eq",
+                    "args": [
+                      {
+                        "op": "index",
+                        "args": [
+                          {
+                            "op": "helper_output",
+                            "args": [],
+                            "index": 0
+                          }
+                        ],
+                        "index": [
+                          "ELLIPSIS",
+                          11
+                        ]
+                      },
+                      0
+                    ]
+                  }
+                ]
+              },
+              {
+                "op": "Invert",
+                "args": [
+                  {
+                    "op": "helper_output",
+                    "args": [],
+                    "index": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "resource_axes": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "resource_names": [
+    "wood",
+    "stone",
+    "coal",
+    "iron"
+  ],
+  "resource_lower": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "predicates": [
+    {
+      "helper_index": 1,
+      "name": "table",
+      "target_tile": 11,
+      "source": "table = ((near == 11) & select).any((-1, -2))"
+    },
+    {
+      "helper_index": 2,
+      "name": "furnace",
+      "target_tile": 12,
+      "source": "furnace = ((near == 12) & select).any((-1, -2))"
+    }
+  ],
+  "known_helper_index": 3,
+  "valid_inventory_helper_index": 9,
+  "source_mask_sha256": "eddbef3d951058ce97083964c040d15e87ba5020c703431f7a7cb55619056d9b",
+  "original_IR_sha256": "e3c53a4bf24b899aaff8e41eb14407e3c9b70edbb15f54ac7f1a1d058855df27",
+  "manual_information": [
+    "target action selection",
+    "inventory meaning/unit and public decoder",
+    "positive spatial predicate semantics",
+    "known/finite applicability scope"
+  ]
+}

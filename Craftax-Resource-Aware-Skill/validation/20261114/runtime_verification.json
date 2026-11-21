@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "asset_files": 301,
+  "training_updates": 0,
+  "environment_calls": 256,
+  "controller_checks": {
+    "passed": true,
+    "environment_steps": 0,
+    "one_activation_verified": true,
+    "public_arguments_only": true,
+    "deferral_does_not_spend_activation": true
+  },
+  "access_checks": {
+    "passed": true,
+    "environment_steps": 0,
+    "A1_returns_before_craft": true,
+    "A2_no_install_no_craft": true,
+    "original_C2_unmodified": true
+  },
+  "devices": "[CpuDevice(id=0)]",
+  "jax": "0.6.2",
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "reset_calls": 128,
+  "physical_state_exact": true,
+  "probability_sum_max_error": 1.1920928955078125e-07,
+  "finite_networks": true,
+  "normal_reset_rule_auto_equal": true
+}

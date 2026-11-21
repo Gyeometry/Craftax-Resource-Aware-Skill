@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "prepared_date": "2026-11-21",
+  "repository_status": "LOCAL_PREPARATION_ONLY",
+  "asset_and_structure_check": {
+    "passed": true,
+    "asset_files": 301,
+    "relative_document_links": 12,
+    "phase55_episodes": 32768,
+    "phase56_episodes": 6144,
+    "new_training_updates": 0,
+    "new_environment_steps": 0,
+    "remote_uploads": 0
+  },
+  "source_files_unchanged": 325,
+  "private_path_or_key_findings": 0,
+  "manuscript_drafts_included": false,
+  "new_training_updates": 0,
+  "new_environment_steps": 0,
+  "paid_API_calls": 0,
+  "remote_repositories_created": 0,
+  "git_pushes": 0
+}

@@ -1,0 +1,1742 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 140,
+    "sha256": "92e3257220fa854ccd98646d3b79499b09bc87f3c5b8c8b948685b730149f48b"
+  },
+  {
+    "path": ".github/workflows/validate.yml",
+    "bytes": 361,
+    "sha256": "fff9b72cb0e0c23b36eae8f2f967a1dd18f820d9921bc070f96c3b644529a0e1"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 161,
+    "sha256": "08f713fd3cd8b9a1050ae18df834e98c7ad1fcedb33df4e7a615406777c11dd1"
+  },
+  {
+    "path": "AGENTS.md",
+    "bytes": 825,
+    "sha256": "1f0b3a2069bebb197fba80ba8f6aca600594b80c1a3b79bc9231faab7f1be03d"
+  },
+  {
+    "path": "ASSET_MANIFEST.json",
+    "bytes": 53446,
+    "sha256": "412bce5a27f15cf1581defc967c35254edc4ecd258e050647b059561ca32fda4"
+  },
+  {
+    "path": "assets/architecture.png",
+    "bytes": 95070,
+    "sha256": "e910bda1d7222afe49a0468cd41b26fa42da54ae525548ed6840aeadb017387e"
+  },
+  {
+    "path": "compare.py",
+    "bytes": 2065,
+    "sha256": "1021947a9e6df75a609844f11ababecee9ea9de8a965fcf48d68785f6f5095b1"
+  },
+  {
+    "path": "configs/phase55.json",
+    "bytes": 699,
+    "sha256": "ca9239adee83fc87a96ca5bf5def332f7d1e004bc54f65f92ffcecfc4ed0767a"
+  },
+  {
+    "path": "configs/phase56.json",
+    "bytes": 678,
+    "sha256": "b9f186113a8f012d8ebd70821041ff447afc2b51f0231934a1c320b87537d8b6"
+  },
+  {
+    "path": "docs/ARCHITECTURE.md",
+    "bytes": 2466,
+    "sha256": "9ac16ffbff40c8eedbd05852d928f61ab853f1132ca617b699c8d198c3b5f3fd"
+  },
+  {
+    "path": "docs/EXECUTION_GUIDE.md",
+    "bytes": 6136,
+    "sha256": "9fca189fb396e31ba930f876503e226a1961b122a7c5b357a8b8678ff325ac79"
+  },
+  {
+    "path": "docs/LIMITATIONS.md",
+    "bytes": 1213,
+    "sha256": "fe9f82377c331cbf8470b781fdab0cc1d490bb36556840644c0b1cb19f020185"
+  },
+  {
+    "path": "docs/PREVIOUS_VALIDATION.md",
+    "bytes": 1551,
+    "sha256": "32d87620404b5f53ce5a2e84293b3764343cd92d427fd5bee927f3bed34ec594"
+  },
+  {
+    "path": "docs/PROJECT_WORK.md",
+    "bytes": 3110,
+    "sha256": "f77f16111a577722270df644685bd51968a3b7dae1378c9bd583f8a30cc9602b"
+  },
+  {
+    "path": "docs/PUBLICATION_STATUS.md",
+    "bytes": 1348,
+    "sha256": "935a5d1997b53f314d5968749022340f40925d922bf6cb49359ae48801128f63"
+  },
+  {
+    "path": "docs/REFERENCES.md",
+    "bytes": 1646,
+    "sha256": "3573e8fe27e29ee6302335d25aa96735cd338e796518ebbe7c5155e041a86400"
+  },
+  {
+    "path": "docs/REPRODUCIBILITY.md",
+    "bytes": 1721,
+    "sha256": "adbdd2ece091b9c317f14c2477ec957184b88ca307eb2ee56060e20684d4a3d5"
+  },
+  {
+    "path": "docs/RESULTS.md",
+    "bytes": 2315,
+    "sha256": "337c4aff0bc3cd041b51fe5ea9aec70c9a911dc9ef5b6d169707319ad2fa5563"
+  },
+  {
+    "path": "models/head_model.msgpack",
+    "bytes": 764592,
+    "sha256": "0b6eaa4a13b00b61977a6d5b0c834f3552bb14baae2d10b46541d4fb2d3ae66e"
+  },
+  {
+    "path": "models/PPO_138101.msgpack",
+    "bytes": 13296506,
+    "sha256": "f7d7d93834b0bdc302facb0e35a5c7bb01076d45d5e3750b06737ccfe158b222"
+  },
+  {
+    "path": "models/PPO_138102.msgpack",
+    "bytes": 13296506,
+    "sha256": "e3350f6666beb6b5e4934ffba67a79d7a15bd86f58c95bc24aa4c2c5030d33b7"
+  },
+  {
+    "path": "models/PPO_138103.msgpack",
+    "bytes": 13296506,
+    "sha256": "c3f1d26396a6e2265ad38d1aeb8d2763530fbf79abde5135ec684b611fc9a769"
+  },
+  {
+    "path": "models/PPO_138104.msgpack",
+    "bytes": 13296506,
+    "sha256": "23f7a0aaa99a4e016f9db7bdd59bda4f7ab5eaf0c550fae428837bf65d1ad71d"
+  },
+  {
+    "path": "models/PPO_138105.msgpack",
+    "bytes": 13296506,
+    "sha256": "316029c28933622582781c4f7a449b84c7f3a11d4a75acae15c0ad6b0c974562"
+  },
+  {
+    "path": "models/PPO_138106.msgpack",
+    "bytes": 13296506,
+    "sha256": "50c6021c8603b928dfb9659ff99deebb39626c79d55e97280a34d86d6f1be3e8"
+  },
+  {
+    "path": "models/PPO_138107.msgpack",
+    "bytes": 13296506,
+    "sha256": "d8b6dd7f4b026c972779f652e19e69fd2ba6b6ead039024844147d343243f395"
+  },
+  {
+    "path": "models/PPO_138108.msgpack",
+    "bytes": 13296506,
+    "sha256": "d6661f076d399c56a3add0673d225e109d391867ebcc8f3515b8c75946a4e178"
+  },
+  {
+    "path": "models/Skill_153101.msgpack",
+    "bytes": 1588339,
+    "sha256": "30827929168708c6bd9f2afcb6fff3d4982fb5260abb23f9a8114576f0884466"
+  },
+  {
+    "path": "models/Skill_153102.msgpack",
+    "bytes": 1588339,
+    "sha256": "b813e1889cc99fe9e09b7270168c2d11ab29577c55f4d1b2d01e3b76f0c7a6a7"
+  },
+  {
+    "path": "models/Skill_153103.msgpack",
+    "bytes": 1588339,
+    "sha256": "f1c7cbf3ea571f71c73fc39e332826e6959e56c994889e13c4c8961b2d6ef443"
+  },
+  {
+    "path": "models/Skill_153104.msgpack",
+    "bytes": 1588339,
+    "sha256": "e998039d78a1bb935afc0a22b5ee52a908e0a9df68c0dce4d4bb0cf9c4a2d2a2"
+  },
+  {
+    "path": "models/Skill_153105.msgpack",
+    "bytes": 1588339,
+    "sha256": "d915fe46abada4c906d47b1ccb9809b1a7410b1b5348861bfed998b67f3ecb84"
+  },
+  {
+    "path": "models/Skill_153106.msgpack",
+    "bytes": 1588339,
+    "sha256": "7e02c3a8b69721775c167bf34d8c3798bbbda67b97ee6498e5a3f804ebdba7b0"
+  },
+  {
+    "path": "models/Skill_153107.msgpack",
+    "bytes": 1588339,
+    "sha256": "25cd898336c10f01ce1692f9f3043308874d8cc820f13c0b9ed02a7d1fe5def6"
+  },
+  {
+    "path": "models/Skill_153108.msgpack",
+    "bytes": 1588339,
+    "sha256": "5d6d96784b53397d05cc0fae8800d50a7cee3bf5f78fd46772c4f8f6fb6dbfd2"
+  },
+  {
+    "path": "PROVENANCE.json",
+    "bytes": 78104,
+    "sha256": "03427c774c549fb57ccb652deef742bf92e773fee3b978481a5e6313aa84128f"
+  },
+  {
+    "path": "README.md",
+    "bytes": 8994,
+    "sha256": "97c2d5333962f893ec041264608c001a84895bb23f970910e4235afeb6394756"
+  },
+  {
+    "path": "reference/phase55_episodes.csv",
+    "bytes": 7966012,
+    "sha256": "d69cf909360c053c799b6fbaa8ae267d20f2932ddcc6e21cded01883402826c8"
+  },
+  {
+    "path": "reference/phase56_episodes.csv",
+    "bytes": 1495970,
+    "sha256": "7f235b36090702dea5f67e9f98134b3adb5fdf0afc404a39391b10af1b978c45"
+  },
+  {
+    "path": "requirements-cpu.lock",
+    "bytes": 918,
+    "sha256": "97fe721b0b82b02cb56e32d00cfe5b552fca0fa8553000ed14aca7a142dc22c1"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 164,
+    "sha256": "dc154985ff7dcd4c062981b21145d04031371eae9cc8b3e409b2e20d41385573"
+  },
+  {
+    "path": "results/recomputed/phase55_recomputed.csv",
+    "bytes": 1002,
+    "sha256": "d45b94f07d068cbc4794fcb199c926ffb3e3335e342adc1d04d9058ec984c51a"
+  },
+  {
+    "path": "results/recomputed/phase55_seed_returns.csv",
+    "bytes": 1303,
+    "sha256": "18a89b02a5f346a7540f63d718c6d16fd8678518e1851a64caeaf244731a1919"
+  },
+  {
+    "path": "results/recomputed/phase56_seed_returns.csv",
+    "bytes": 994,
+    "sha256": "bad85fdf575f730569728e011bf9b91da3e5ff42f140689fc8d939574c501287"
+  },
+  {
+    "path": "results/recomputed/phase56_summary.csv",
+    "bytes": 191,
+    "sha256": "1d3bb31063640aade9e36ed8ee2f8e2f907429bafd72f01a6614dcbb51a02c89"
+  },
+  {
+    "path": "results/recomputed/rule_failure_reasons.csv",
+    "bytes": 35,
+    "sha256": "b7b59419fd33cc893b8fce1712706e754d2e2114ce2ebea9fbd5b7d6816f39b8"
+  },
+  {
+    "path": "results/recomputed/validation.json",
+    "bytes": 222,
+    "sha256": "bbff1ffe6edf66823b5baa99a4c1524a9e59745a70205d3b3538587d5038f1ec"
+  },
+  {
+    "path": "results/Table_02.csv",
+    "bytes": 1143,
+    "sha256": "5d3aeb0b60614f3d3c19a1725192c4cf09c0c74d1c6f9d133c5ebbc89febf995"
+  },
+  {
+    "path": "results/Table_03.csv",
+    "bytes": 1045,
+    "sha256": "cc5ba18914fe74d8e5164730304048db2ec2457f884e175ab791c86addce73fd"
+  },
+  {
+    "path": "results/Table_04.csv",
+    "bytes": 518,
+    "sha256": "bea6967c70664b1b74ba1096398bf6fc6e0b12aace0218242eaeb121ef713e9b"
+  },
+  {
+    "path": "run.py",
+    "bytes": 8131,
+    "sha256": "a4b51a0df94525cf3101493d8f3725f41f98dadc5cf0899f76dd16497ecaff40"
+  },
+  {
+    "path": "scripts/check_repository.py",
+    "bytes": 2552,
+    "sha256": "170dc1671320941230dea79330d9958846c66f2b9345ec33869a5ebfb3d83171"
+  },
+  {
+    "path": "scripts/summarize_reference.py",
+    "bytes": 2318,
+    "sha256": "1805cddd52031df664b68f62b6e17d6615fec3adac6cc18d548ba1181f81090d"
+  },
+  {
+    "path": "src/ablations.py",
+    "bytes": 5425,
+    "sha256": "cbd50f6802046b22ee95e04fb9aeb3471943f2c214e8f3a4c3a59752d8dc9810"
+  },
+  {
+    "path": "src/auto_gate.py",
+    "bytes": 1038,
+    "sha256": "d51fb076977b5cf32a237c79592450c210f658274988da69c8959f2d252f5694"
+  },
+  {
+    "path": "src/controller.py",
+    "bytes": 4584,
+    "sha256": "cb27f0a25b4e05c833a400f175939142d8a44b11401796aa2de2e5c654f2ee87"
+  },
+  {
+    "path": "src/execution.py",
+    "bytes": 4292,
+    "sha256": "ca5a554234b947dc56b4be6b972d5ba460d850c6717c9c1a6385f0588f801166"
+  },
+  {
+    "path": "src/gated_execution.py",
+    "bytes": 4056,
+    "sha256": "45d9eaf8b1667db7563e1d225506fdeaf06d7e8e29d698d801ef944ddfa84e8d"
+  },
+  {
+    "path": "src/goal_formula_spec.json",
+    "bytes": 26687,
+    "sha256": "d41d799c51db82e371777765a7a5a55386602b88630449a5ff57e7b8fda0de18"
+  },
+  {
+    "path": "src/head.py",
+    "bytes": 888,
+    "sha256": "03857e7ae6cc41ad9f29338bb4eaae82d66c281a161acdd4fc94b4e994df2334"
+  },
+  {
+    "path": "src/instrumented_logic.py",
+    "bytes": 14268,
+    "sha256": "d2b60d1daa6091edfb260351beb797a1ec9411b4ab6b006e615e5a1b50f5e447"
+  },
+  {
+    "path": "src/learned_resource_model.json",
+    "bytes": 960,
+    "sha256": "482736f782e236ea55eed7cd25ac043d722516fda8fd12cdd2ea3ab9fa8062b2"
+  },
+  {
+    "path": "src/masks.py",
+    "bytes": 2499,
+    "sha256": "eddbef3d951058ce97083964c040d15e87ba5020c703431f7a7cb55619056d9b"
+  },
+  {
+    "path": "src/network.py",
+    "bytes": 2538,
+    "sha256": "b0e6bd666ee6cb77b00a826dfc6065123246f80fc1be6fb7bac27aafee1a2711"
+  },
+  {
+    "path": "src/planner.py",
+    "bytes": 4589,
+    "sha256": "880589cae9173193ef41bd3d761c25b0886e5830a078cd2250e43abd3bea92a2"
+  },
+  {
+    "path": "src/runtime.py",
+    "bytes": 4695,
+    "sha256": "b7154fa416109aa435e61db5d646c06b30ce0f949b90d621124d99617f52e9b0"
+  },
+  {
+    "path": "src/skill.py",
+    "bytes": 1544,
+    "sha256": "c3803bebaead003de394e8684e2f05f893a23f058b41d22246c3d957718bd43a"
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.md",
+    "bytes": 548,
+    "sha256": "d17cb0c2540b5ce72bbb7c8a8528ad6d5a6721482a929cfcaf19493cbdd2e1c6"
+  },
+  {
+    "path": "validation/20261114/cpu_complete_comparison/comparison.json",
+    "bytes": 282,
+    "sha256": "ab3dabc3e6cc0b614afe9c654e66d13a3b33ea65123ca2f45ec81ccfd2c82d61"
+  },
+  {
+    "path": "validation/20261114/cpu_complete_comparison/paired_episodes.csv",
+    "bytes": 4372,
+    "sha256": "c5aa5b051eaa82fc79d80b6bd81d2069f738072ff780491bc7dadaebf3f11873"
+  },
+  {
+    "path": "validation/20261114/cpu_complete_comparison/seed_differences.csv",
+    "bytes": 230,
+    "sha256": "641e43a59dd5c066f15134ba7261d46f57ba6eba7a82bc3e80b48bc3a12071b3"
+  },
+  {
+    "path": "validation/20261114/cpu_intervention_comparison/comparison.json",
+    "bytes": 282,
+    "sha256": "28f4f9d59e7af21722299bfcd9d4ca6a85035fbe437c3862c1098cf010d7da33"
+  },
+  {
+    "path": "validation/20261114/cpu_intervention_comparison/paired_episodes.csv",
+    "bytes": 4879,
+    "sha256": "eb2e773a82cd6d137eb2ef4c950b6b448500ddf2a1ebe5cc270fbc39062a4fe1"
+  },
+  {
+    "path": "validation/20261114/cpu_intervention_comparison/seed_differences.csv",
+    "bytes": 266,
+    "sha256": "bb14c2e9b9c9ddfb4fbc43527a4070e68025c58635ed095e63733c07347e906c"
+  },
+  {
+    "path": "validation/20261114/cpu_phase55_comparison/comparison.json",
+    "bytes": 282,
+    "sha256": "970c2ea60506a8f4d51689f36cea1f0c2f48b1836331b1cb41fe70cd22c34453"
+  },
+  {
+    "path": "validation/20261114/cpu_phase55_comparison/paired_episodes.csv",
+    "bytes": 5419,
+    "sha256": "58d5f2056622d8a95fdf9af0cbfcf4737582c21da98314b47b1b03fcfb768bb4"
+  },
+  {
+    "path": "validation/20261114/cpu_phase55_comparison/seed_differences.csv",
+    "bytes": 276,
+    "sha256": "0eeb4195a935e1ddbaa2625a62a2fa541c06271b1f3d135ee4aa6fc06a3f70b4"
+  },
+  {
+    "path": "validation/20261114/delivery_checks.json",
+    "bytes": 1397,
+    "sha256": "d0fa69f28b448f01a4436b6fe84cacffa3d9154c010fabfb87dccf809a25bf57"
+  },
+  {
+    "path": "validation/20261114/runtime_verification.json",
+    "bytes": 767,
+    "sha256": "8aa09e39e0858e6dd95c28c1dea1b6f92fd4ea41202fdf81f0fb4035fbe1e646"
+  },
+  {
+    "path": "validation/preparation_asset_check.json",
+    "bytes": 98,
+    "sha256": "77efa05e894581173de8c3def8bc216a02a8bdaae456931a87dc8d83a4686877"
+  },
+  {
+    "path": "validation/preparation_checks.json",
+    "bytes": 635,
+    "sha256": "a9e74e5cf11de3bec973f8815d6556d0ff143782ce4be5163aa135535ba91702"
+  },
+  {
+    "path": "vendor/Craftax/.pre-commit-config.yaml",
+    "bytes": 153,
+    "sha256": "0b42df419b6fe13756e94bfe4a97617cc1071f61f8eaef127d03682e1933b5ad"
+  },
+  {
+    "path": "vendor/Craftax/CONTRIBUTING.md",
+    "bytes": 814,
+    "sha256": "8c484a2b441dad949be9d3103b9f3d3023830abdca250ecf1745f698e2a17d84"
+  },
+  {
+    "path": "vendor/Craftax/craftax/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/0.png",
+    "bytes": 607,
+    "sha256": "e7ff6661ab7d9725d1746051dd0791773a9de099472bcd5232c09ebb079bcd32"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/1.png",
+    "bytes": 1827,
+    "sha256": "120231d0a7a982b2d7fda7b39f04f23d4b98dfd69f083921f5b1ba5c23447351"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/2.png",
+    "bytes": 1501,
+    "sha256": "1efeccfbf03d411f650e76ea35c2435f6042ef6d9c74f81e7413772104b84685"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/3.png",
+    "bytes": 1559,
+    "sha256": "b698f244fb4f64cfb5c2b06b6a4c7990419633aac7d6b03dabd637a473105e4d"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/4.png",
+    "bytes": 1533,
+    "sha256": "3acbe8a49a15f5053e43fc4198cd9021da42b85bb8454c154cbccdc540d0c3a1"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/5.png",
+    "bytes": 1518,
+    "sha256": "ac1935cf69770cac7ca75b1e39a2cf0b6ff553e313cd85eb13177a3850fddd91"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/6.png",
+    "bytes": 1567,
+    "sha256": "3ccbedf1d8b7aac4056f69410337636c12bddd336818bdff00940bf21719eda1"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/7.png",
+    "bytes": 1538,
+    "sha256": "d77c6fe75de68aa7e9f83a7baeb0aa3b6dae53197b30eaafa539e0b4b0c65cc0"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/8.png",
+    "bytes": 1506,
+    "sha256": "5af948de69d2d8d34b54dd25a014f268329bf69d3a55f0b5d2761dcb6ff02e5a"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/9.png",
+    "bytes": 1535,
+    "sha256": "17c5890d6f2c2f7afd53acab573c5c090d32b03f0d038e7556f1a90d8f862a8c"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/arrow-down.png",
+    "bytes": 1825,
+    "sha256": "10116ec9d829bc708dd330ecd634706eef244069339964b07d6d5fb9e6dbeabc"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/arrow-left.png",
+    "bytes": 1731,
+    "sha256": "5ea30987e2aba7ea66c3a2b06a442663afec3ecdf239aca4c23c3f760068c67a"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/arrow-right.png",
+    "bytes": 1752,
+    "sha256": "93e8aa79ee3226f878a1abf705b11acfcc4c4ff9675cf9e402f72cb1dd5fcd68"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/arrow-up.png",
+    "bytes": 1833,
+    "sha256": "d00bf0b856a879efa5bb5a4ad31ee6ead5047ae1a19ba72b6a41b0af24e18e9a"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/arrow_fire_enchantment.png",
+    "bytes": 603,
+    "sha256": "78713a073e737e823d48aa4d93a528d604e8f19286876041fcc42f35e576582c"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/arrow_ice_enchantment.png",
+    "bytes": 602,
+    "sha256": "9a7af0f30811de8d2c58784318719c50266848c7cf05d917b4b273a298e99539"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/bat.png",
+    "bytes": 652,
+    "sha256": "6d289ac70f0da8cdf029eb7b76c8ff87ab057977a8ab30b8f0227a1503c6fab7"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/book.png",
+    "bytes": 719,
+    "sha256": "9a94a483b03b2c7994633284a5e5e4bfc65d6132b4bde9c0e63360576c2c481b"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/boots_fire_enchantment.png",
+    "bytes": 654,
+    "sha256": "8807e7d53ef2c5f0634ebe559a7ada5163ac56cbd1c16bc6941f939a46d4419b"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/boots_ice_enchantment.png",
+    "bytes": 652,
+    "sha256": "aefe572415b499869a1d14f08c0cf8059d7286eb9267caec544f308852bf0401"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/bow.png",
+    "bytes": 693,
+    "sha256": "1b3e5878130d3e55dcdaa5476962cffb103b770b160be8a6bdf406f0587f4250"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/chest.png",
+    "bytes": 953,
+    "sha256": "c257e75ea9d5ea5ac1dd0d2f1730de6c328a7965e7d082f84731458deabe209f"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/chestplate_fire_enchantment.png",
+    "bytes": 670,
+    "sha256": "dee5c9ee3277f50d4d166f8ec230cba3ac5e833f7dacb19517ba48bbc0ffef17"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/chestplate_ice_enchantment.png",
+    "bytes": 670,
+    "sha256": "46dc5e3c5365733602707828512ef69109fd0d46414190149030d87bd911f793"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/coal.png",
+    "bytes": 866,
+    "sha256": "b2f97fe4bcd099464a15c9b64b3d60a3260b5adde5c1501b509129bb7f283fbe"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/cow.png",
+    "bytes": 1983,
+    "sha256": "e2f4229e756ef169770a68ba74e826fcdbb4ff87e8dd6addc32a4653e53ad4ea"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/dagger.png",
+    "bytes": 621,
+    "sha256": "b4f6377a6ee27f2bddc8678744ae6a25def8f6f19a04327950f3669b05bf0142"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/debug-2.png",
+    "bytes": 5735,
+    "sha256": "c2ed38b43accb5891a1b994c44b4922fea818ccf26c3bca07ade627ccb2a4c90"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/debug-3.png",
+    "bytes": 5762,
+    "sha256": "533085d8459425783246ec160d09c7b6c8305b7875dcdd89fddd201c36606305"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/debug.png",
+    "bytes": 5761,
+    "sha256": "6d3dfdfa59b006aeade48e8737239e987e84f8ec7aae101864588971ce093e7d"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/debug_tile.png",
+    "bytes": 84,
+    "sha256": "ea6c4eabab89249e55aa717aaa9228f1a3942faafb4ad383f5cdb88be3cc6827"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/deep_thing.png",
+    "bytes": 996,
+    "sha256": "fa364ca09e8d7a08ea10e00e39845e823b34c5a2e28d39cd86075a3bff1b87cb"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/dexterity.png",
+    "bytes": 790,
+    "sha256": "06e16fe7df737c728faf7a2991f3e0e242861681a037f444d6a941249defa3e6"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/diamond.png",
+    "bytes": 839,
+    "sha256": "bf829ffe6da2745bb4c33c28c08da89857632c6b40275eb13a6a2ad12b111ea3"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/diamond_boots.png",
+    "bytes": 605,
+    "sha256": "e65aaa5a13632d8a24d5cdcb624e55e79ea2d78b3f500815887495fe6f5511bc"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/diamond_chestplate.png",
+    "bytes": 685,
+    "sha256": "aeb047bc43e296e7c03d17794300271294812a4200f81e5d1ed5cb46fbbe825f"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/diamond_helmet.png",
+    "bytes": 642,
+    "sha256": "1cacda1cffce21173e807d32c131fd787ed053e287ca7fa4fe2b3c8fc90a7569"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/diamond_pants.png",
+    "bytes": 609,
+    "sha256": "0d66e696cf37ef53a2075752c8cbadd4f567ef90e71af51532f5c6d15ca44243"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/diamond_pickaxe.png",
+    "bytes": 733,
+    "sha256": "79e45d41dc8a91001489f72b6b63fc5f5904d132f6e71cd7e6bb9b443c8b6726"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/diamond_sword.png",
+    "bytes": 714,
+    "sha256": "9a96405a002b1ae647b6dec8d5bc340e6509c89d101a4e3b2205f766f91085ef"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/drink.png",
+    "bytes": 2492,
+    "sha256": "2f41572d8f2a32f3527c012999bc289a41f00c8c057b8262f9ce7561dc00a6a1"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/enchantment_table_fire.png",
+    "bytes": 1087,
+    "sha256": "4406606653df3339c6fbbed306e9b17da8dc57a35fac8f4151e35a1d369cfcbc"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/enchantment_table_ice.png",
+    "bytes": 1092,
+    "sha256": "ec7cd1129b54d2f8ba166f80afa51e3afd7c24cd47e91721b41d4376de709784"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/energy.png",
+    "bytes": 2213,
+    "sha256": "6cf2ba191225dd41fcbf0f7d19592f80c48dd75254792826bd06017d65f04b10"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/fence.png",
+    "bytes": 2449,
+    "sha256": "833eddb225c7f7951bf5ed920310c07ae295ce82ba37d11824f9c337e9060059"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/fire_elemental.png",
+    "bytes": 674,
+    "sha256": "bb14ce70bcc2638a9e682f41c2c75d43dfd5de93d9b871bbc9284b641fabf529"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/fire_grass.png",
+    "bytes": 710,
+    "sha256": "a892917ba2d9a768ec70b186b53bec3958643aefdcbbbb931af7d834f13bf74c"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/fire_stone.png",
+    "bytes": 959,
+    "sha256": "ccec313ceee43780afe24367e7abda57ab1f1144254a6cc400a82cd01cc0223f"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/fire_tree.png",
+    "bytes": 1140,
+    "sha256": "9907be5ffd9d257f344afa057a59673097dd7bdb805b3429604819bc1483be98"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/fireball.png",
+    "bytes": 670,
+    "sha256": "8e62f33820dccc59e184a7ebc846cae08710d84b0e2994d70ab9f5d54e7dc045"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/food.png",
+    "bytes": 2292,
+    "sha256": "d68036a77b8e4a39cb19ffa8b68cb41a6da1a0445eda6750c511b9340d7e654c"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/fountain.png",
+    "bytes": 1141,
+    "sha256": "534f9405fe1907aae3257fc38d16218b499231929929db0e186ecff579edacd2"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/frost_troll.png",
+    "bytes": 723,
+    "sha256": "3689099cdcc248af92423f78b85246811b3cdf0d515b151c8bdd71fb0cea5586"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/furnace.png",
+    "bytes": 910,
+    "sha256": "50e534adaba8b20473f87dabc34f2b41a091ad438a80c71e28f3533317316b4c"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/gnome_archer.png",
+    "bytes": 860,
+    "sha256": "dd68112f1a7596712a721a5da105422efb888b7ec4db088ed48c0b5fa55991d1"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/gnome_warrior.png",
+    "bytes": 847,
+    "sha256": "5f1b2bfcb4662d10fe915654872586e1bd2d4f393296471864fd2af036005bb0"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/grass.png",
+    "bytes": 691,
+    "sha256": "7472c8bde25fa151fb44390b7ac138d4befe8cb25cd4f51fc394e48f7077050f"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/grave.png",
+    "bytes": 1099,
+    "sha256": "73ff13378cd1d320fa05f02dc82a69f83bb488becee340c9343f99cda953fb82"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/grave2.png",
+    "bytes": 1210,
+    "sha256": "935435fecdf406b157a9ede86d6c90964fc2d9c536a5bfe771deb75d692b78a5"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/grave3.png",
+    "bytes": 1161,
+    "sha256": "d9fd0703c1d40da3e24e570a7d8d2a2c61dd1563bc2f1020fafe9c631b285b22"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/gravel.png",
+    "bytes": 741,
+    "sha256": "df159208553eac8f45d812493c44029b4c97e887f645e3a50484ab43c4e82e62"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/health.png",
+    "bytes": 2721,
+    "sha256": "bdec6a406466e2f67c9fab2e234fd3309e7d5f7b73770371b09c204688867510"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/helmet_fire_enchantment.png",
+    "bytes": 666,
+    "sha256": "67244a136df996a858a61f91418a8816e882a68c12ce3b56ca00ccce5cc42473"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/helmet_ice_enchantment.png",
+    "bytes": 666,
+    "sha256": "5c86de408999c2c205896e7e6979640528165d53c671dc3fb45464f37688f129"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/ice_elemental.png",
+    "bytes": 689,
+    "sha256": "73ec96a674355f7ed9f92df7f6e84d9da6f90292c7d73d83ef55845ff2d831e6"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/ice_grass.png",
+    "bytes": 719,
+    "sha256": "39f17c8b6356b8ef552ee69cf36c97c2847597c1a37114996c58769a8f514da4"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/ice_shrub.png",
+    "bytes": 994,
+    "sha256": "eabac49a0e555b9e51488b3140900eebaac65d7bd9ed95e634ecd39497251bed"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/iceball.png",
+    "bytes": 668,
+    "sha256": "f1c59e0b1173605cbc8fc7642e891814db2757e1c12c9e0563893584d401a66f"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/intelligence.png",
+    "bytes": 933,
+    "sha256": "abd22c3d360cc17dc35bf54cb770e7dfa84577ed82a47ad9bed52c6b5a842111"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/iron.png",
+    "bytes": 1048,
+    "sha256": "f008b904df2dc96b2c279ae66d035676c31e59e3fc7a216f9f9279c9aa6ca911"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/iron_boots.png",
+    "bytes": 613,
+    "sha256": "6047b627e8c64513aff2f1410467230e29e260093f7f7804ef917617f88aea14"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/iron_chestplate.png",
+    "bytes": 681,
+    "sha256": "ad2aecd077c7e75c8cf7828d40166e19224ab246711757bd5c1b408d926121ce"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/iron_helmet.png",
+    "bytes": 642,
+    "sha256": "20c9d960453fbfed6d7dfad9e7d602ad70239bf58dfb3816a7b18c0e1be2df4f"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/iron_pants.png",
+    "bytes": 608,
+    "sha256": "a7c0fcff08d79c0f86911b1b773dc3f52c523b2b928fa94a6a646b0c5c2a12b2"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/iron_pickaxe.png",
+    "bytes": 2354,
+    "sha256": "f7aa1a76ac1a679b2b871a79787ae1e2085000dd731927f1b549ad0850c7a3c1"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/iron_sword.png",
+    "bytes": 2390,
+    "sha256": "97838202afa0aadf79de1f80a9b0530698bbe6409e88aea6687ade12f1a962ab"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/knight.png",
+    "bytes": 839,
+    "sha256": "ba6882649d9f951998104016a8ebd0481ce2b8c3d6f01527b8e1687a92b6ec70"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/knight_archer.png",
+    "bytes": 889,
+    "sha256": "72c0d49a87e7e45b55b60637b7100bc22e61b6df13a7f80427907af5c8f5c548"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/kobold.png",
+    "bytes": 737,
+    "sha256": "962ffbf05690002296fa51a0e96044f955ab12d3bc957aef570815d3b05a4cef"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/ladder_down.png",
+    "bytes": 729,
+    "sha256": "5dcd2b66e462bc4dc5ac6799917a7134266e42990d4b2500b3bf59984da45724"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/ladder_down_blocked.png",
+    "bytes": 855,
+    "sha256": "27bf24849acafb32634e2510aa8256926f2dda0f5ebd737ac5773f3e4e0dbc42"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/ladder_up.png",
+    "bytes": 612,
+    "sha256": "8b0085da83c436ab215a300b2450b25332850001ac82e94844b254ad4260e867"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/lava.png",
+    "bytes": 2130,
+    "sha256": "c1055f45abfb586adcd83e3d45bfe56ade2c5f4bcf3f7b559b0f1aae10aea2a6"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/leaves.png",
+    "bytes": 755,
+    "sha256": "3c3082108f7b304202eb32d31e888fccab275e0801b89f7f8e9ff6731659df83"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/lizard.png",
+    "bytes": 758,
+    "sha256": "1291ac0e0688bc9e395abaa9795d95853e319bb4512529f3063b82db960fd4bf"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/log.png",
+    "bytes": 745,
+    "sha256": "7e46d49a17c40b122ba222ab2427387b87be9a24aab2761db4ca81d57139955d"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/mana.png",
+    "bytes": 695,
+    "sha256": "236fec4db9f9631a7322c602f65aa4fc435737f5178b1b681e5c1026264fd6e7"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/necromancer.png",
+    "bytes": 1150,
+    "sha256": "5930e091672132a39371372a204e9b4149b2c6ff060cc86f9da65216775286c7"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/necromancer_vulnerable.png",
+    "bytes": 1128,
+    "sha256": "9d7eb7ff83c876fe42a256be7cca38ec2e3a5217612cbd4c06db7c3823919eed"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/orc_mage.png",
+    "bytes": 769,
+    "sha256": "503e56deaa1b0d33ecd8ac74103c57853bd56b6294bc5e94f7ce17d29ccf6a55"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/orc_soldier.png",
+    "bytes": 777,
+    "sha256": "87e6337c8329773ba3c54cbb14e8b4049543727206f2b8eaab44234ecce79c55"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/pants_fire_enchantment.png",
+    "bytes": 709,
+    "sha256": "00f79c74829e5c21c1c0db0a72f0a02abefb317599522d1484d9ddbc2839f051"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/pants_ice_enchantment.png",
+    "bytes": 702,
+    "sha256": "ceab9cef3e08fd6928a697d9aa0b0dee61097cd3f03c6cbb4102e3b41075ab5d"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/path.png",
+    "bytes": 7488,
+    "sha256": "97f1f7d5e059f74727becf46043cf8555adafe5b6a613cad9f406580c12b405f"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/path_moss.png",
+    "bytes": 325,
+    "sha256": "cddfc2430fe16f0bf62926dd0ed992208a4d75917c7726a9e2a4571bcba7cede"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/pigman.png",
+    "bytes": 809,
+    "sha256": "d903343d19d1ab2644be6f2063155c1afa357ae1da0f827390c7f2e130d01b0d"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/plant-ripe.png",
+    "bytes": 2154,
+    "sha256": "c81d02dfc8e04356b1ce4833f5493ea37fe834eecf666276abb2116a8fcc7bc0"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/plant-young.png",
+    "bytes": 2511,
+    "sha256": "ad8137230ce5299ad613858aaa1514d044965570f2426f33d99a3a0ee72df4f5"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/plant.png",
+    "bytes": 2080,
+    "sha256": "5fb13d8db6b845f08c0232f367694f7bc514a772d9daa0dae7414892c8da37ed"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/plant_on_grass.png",
+    "bytes": 219,
+    "sha256": "fd960b0bdd0e38e2728269076c412723dd5fe8fd3c75d8d10290b89df41fe410"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/player-down.png",
+    "bytes": 6186,
+    "sha256": "a8080519b7dc3e25f48a86cc009ed9d8f566ab3be6585edea04396c8b3307a1a"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/player-left.png",
+    "bytes": 6195,
+    "sha256": "3dc10f41b6d9de35fbf187198fbd12ec7063999778c69fe0610b46be7e580e42"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/player-right.png",
+    "bytes": 6212,
+    "sha256": "4819936965bfea9d6e49f0a982524707d20ce0169502fd58ea93d2eb45a18105"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/player-sleep.png",
+    "bytes": 6590,
+    "sha256": "2e1ee4820df89238cb2c05b0908c58950225a39799768534517b1269e6d881d7"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/player-up.png",
+    "bytes": 6144,
+    "sha256": "add9d032dbb89dbf5c8ea8ed1e216f5d6cb674af8cea5c8187cdbafca5793ac2"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/player.png",
+    "bytes": 813,
+    "sha256": "7888aeb07c336d1a46c8e800bb18ed4abb0411b23a9d89f365cf80d9fe8e116c"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/potion_blue.png",
+    "bytes": 715,
+    "sha256": "852443109c92af1520d7bddeb96ae3d4bdb6b902bcf35d2a45bc217e3f67fbc7"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/potion_cyan.png",
+    "bytes": 723,
+    "sha256": "c54451305bbb179df0a9e7ed35272382658ae47a8984a45cba290d12ad608222"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/potion_green.png",
+    "bytes": 705,
+    "sha256": "9aa357fadb6097000c9bad62b65778a6683633e5311630bfd73a5dd02a425774"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/potion_pink.png",
+    "bytes": 715,
+    "sha256": "4470691881592a8a6d654b235bcbe28e9f76bdfdee3f30609b68f39b046d346f"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/potion_red.png",
+    "bytes": 708,
+    "sha256": "acf7d3f150655235ffeaecb7e829c37d04d3a1126eda0415561ebeafb5bd080c"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/potion_yellow.png",
+    "bytes": 707,
+    "sha256": "57f89ffdd2a872e7708a81a62f38d1a5021ac577d8e95a12717574e3f1e1b4a4"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/ripe_plant_on_grass.png",
+    "bytes": 245,
+    "sha256": "fccaec20ad123b3d8a8bc52f6a78aa1e6a2eab4f49e65b86bd0da07641d5b6c1"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/ruby.png",
+    "bytes": 1110,
+    "sha256": "69883279a2e1fb9d8eb69d76fa26dd90daf063caeb0f9cea2bfa20c6ca2e4037"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/sand.png",
+    "bytes": 729,
+    "sha256": "0597e7be6eed69794298245776ce0c715bfd709be510e5dde39a57925f529c96"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/sapling.png",
+    "bytes": 1817,
+    "sha256": "f9d0e32b4b1e8e5add1dd3d4f8c16c281c5801b634e599c4821d7f81e7e47a3d"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/sapphire.png",
+    "bytes": 957,
+    "sha256": "f4d1d764f544448e63811fe9aa008d12861ecbf8f1a87dd5cdbf2e97b9ef2d62"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/skeleton.png",
+    "bytes": 5993,
+    "sha256": "f101847fc480fb1a466b88747a2716f768e92a886621b0f78adb3781c1017d6e"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/slimeball.png",
+    "bytes": 673,
+    "sha256": "05d49a672fe4b82b9e4f57b503362722fcbfeff025ce54c9f614f5599b8196dd"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/snail.png",
+    "bytes": 729,
+    "sha256": "5c2dec54579b2ee0d6deec858b993b79404b90899c03ff40f36c50d362191dfa"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/spider.png",
+    "bytes": 668,
+    "sha256": "6dd1a31107dbed30df5b144b015a28a3f7687772109e5ae31a3e5c2f7eb16b6d"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/stalagmite.png",
+    "bytes": 1219,
+    "sha256": "f1c90b87dbda3974e3b824a9a83ca879da4ae1a0e5eaa747864a33d0685a9b74"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/stone.png",
+    "bytes": 7242,
+    "sha256": "b583094301e6040472e0cce41d33e2907cd3fcb6725d440dbcbafb74aa3b7522"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/stone_pickaxe.png",
+    "bytes": 2345,
+    "sha256": "9278c34d104f54f859c10fb639f4ad1e98c74d420e5e05de74b59bf26b2af01c"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/stone_sword.png",
+    "bytes": 2429,
+    "sha256": "5f730b59d737691b1d72346178253f830e947c00d395d96a52c17d5f4d3ccc27"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/strength.png",
+    "bytes": 670,
+    "sha256": "5aed3a92bca2333b9904b56270358e4a236b7e92553f2a126f35ed53520d9155"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/sword_fire_enchantment.png",
+    "bytes": 613,
+    "sha256": "3dd1ae7aa119dcf4ff6a2d0e805cb51f276ab21b1494260b8e173c5c2d0ac6b5"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/sword_ice_enchantment.png",
+    "bytes": 620,
+    "sha256": "6c89b5b14d76cb777bce1a5416508c2a953835ef1f0e420dd3e63eea6b46fb9b"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/table.png",
+    "bytes": 885,
+    "sha256": "1f0486085a197cc9331aa7f38e08d16cc34a00d147a5f7d4211e3b4ee7c2b3fe"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/torch_in_inventory.png",
+    "bytes": 615,
+    "sha256": "4072a065afc9315acc4e95164ddf1eb090ed7f9f70990a34eeef53e95d95df99"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/torch_on_path.png",
+    "bytes": 1197,
+    "sha256": "c17230e0cbc59ad3179cb2af00042c9cf29c43bf08e6bd026b201092fee9327f"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/tree.png",
+    "bytes": 7782,
+    "sha256": "6980c8bc2d440799f25e83e2c7fa1c9ee4716f49657c379468e99e47bd096af1"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/troll.png",
+    "bytes": 698,
+    "sha256": "b4c2bca8d46871601fb82eb5bb63d1517fa5f0c447331afe9d9ec4406fe0ecae"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/unknown.png",
+    "bytes": 2127,
+    "sha256": "e1348e977678022203289715d0a753daf4ef10184d7ff0d8b511c1256ca74194"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/wall.png",
+    "bytes": 126,
+    "sha256": "d648afcd8384e0697c3749a8051fc73dbdd9f7679c68f1a21bfa6d779bd5b04c"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/wall2.png",
+    "bytes": 163,
+    "sha256": "62e21026c8f7ab6ee14a4acb373e7ea8f46de047dad2f59e634d24cb6048b529"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/wall_moss.png",
+    "bytes": 198,
+    "sha256": "9d8722a60f489aa2908245e2b1a6c57ef31670c09298492d66e6880fd07d7583"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/water.png",
+    "bytes": 2198,
+    "sha256": "71a1c90fbd6cf37993149e07f1cca9cdd85f7e427298d8cdf7a37b53d2a2f280"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/wood.png",
+    "bytes": 1577,
+    "sha256": "1111de9fc2ebf2d23bda6c95db617b860531db56344a13f129b2d8969140b8e4"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/wood_pickaxe.png",
+    "bytes": 2045,
+    "sha256": "d4e967445261e455e888f8d27f6c5331d8e880c11bacd9387fcf11508a9ddcc4"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/wood_sword.png",
+    "bytes": 2453,
+    "sha256": "5af5aca75b7dba454c7176481b71c2e35d2fb1619acced88b14ca3732488e9ce"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/xp.png",
+    "bytes": 718,
+    "sha256": "ba9d4d9fc35a57c0946133415324f75f42c99743fdea6990373e936f08384e79"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/assets/zombie.png",
+    "bytes": 2089,
+    "sha256": "676685319782495aca2ad3a92c28add81353898292574eac2e6fc867d33bfa0a"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/constants.py",
+    "bytes": 35353,
+    "sha256": "18e55fb3ab9c31f5826ea7ec9dfcfefc561bfe8520281eb8dac7d1f5b0434ef7"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/craftax_state.py",
+    "bytes": 2741,
+    "sha256": "1970e1b6fd073a696e654c4881975f2dcb2a39148d7c47da7ee43e4f9c53f6b5"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/envs/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/envs/common.py",
+    "bytes": 382,
+    "sha256": "d95df21f7970975f01801745fd51c444fb62efe9defea74f995d4b38045ad085"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/envs/craftax_pixels_env.py",
+    "bytes": 5134,
+    "sha256": "b2277254497a6ae371db177373890368606cba160525437cff561b0a1e37991f"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/envs/craftax_symbolic_env.py",
+    "bytes": 5553,
+    "sha256": "a7df63fe5625d9ee37f0181648497b21286ed849841b98b9faa83750bd9d20c7"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/game_logic.py",
+    "bytes": 105887,
+    "sha256": "a33eecd4092163bc565f57735e3812380620b354c19f1444c597c4885d1074ed"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/glyph_renderer.py",
+    "bytes": 9809,
+    "sha256": "2aaeedcbe20b5f70dea924b92d0e38f02b09360b020bd552a6c14d938633c5ad"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/play_craftax.py",
+    "bytes": 6979,
+    "sha256": "5c372ede6fcfb34b0be1aa62afcf813f8e2ab2c5acd467c555617d5bbac5283d"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/renderer.py",
+    "bytes": 44073,
+    "sha256": "c06c8ecda1752cf3bfe1e139acc0ba1db01dff30c69a572beb34d7db0a1964f4"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/util/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/util/game_logic_utils.py",
+    "bytes": 11627,
+    "sha256": "f403bdb4b71830ce9c9c52f5c894b7e62c5e17fac04c5b6cc4c6ed51fa165c7b"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/util/maths_utils.py",
+    "bytes": 594,
+    "sha256": "98350b1b95e0e4cb41b45b7e18afa4a87778aa3d5e15db283cd91c64e4486ab4"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/util/noise.py",
+    "bytes": 2290,
+    "sha256": "2a3d440037f5f9518d3ea2d216ba803e73956ab6fb1caa244e7a06eca5a45de0"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/world_gen/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/world_gen/world_gen.py",
+    "bytes": 24884,
+    "sha256": "9cebe9388f095df5cbc4191af23b64c4b73a9c86e4db09cb24b036a9b3d01a77"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax/world_gen/world_gen_configs.py",
+    "bytes": 9233,
+    "sha256": "97a7fc812ac54f38a8b7d164a2f1fdc082351d53a7f1942632def01616d71275"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/1.png",
+    "bytes": 1827,
+    "sha256": "120231d0a7a982b2d7fda7b39f04f23d4b98dfd69f083921f5b1ba5c23447351"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/2.png",
+    "bytes": 1501,
+    "sha256": "1efeccfbf03d411f650e76ea35c2435f6042ef6d9c74f81e7413772104b84685"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/3.png",
+    "bytes": 1559,
+    "sha256": "b698f244fb4f64cfb5c2b06b6a4c7990419633aac7d6b03dabd637a473105e4d"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/4.png",
+    "bytes": 1533,
+    "sha256": "3acbe8a49a15f5053e43fc4198cd9021da42b85bb8454c154cbccdc540d0c3a1"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/5.png",
+    "bytes": 1518,
+    "sha256": "ac1935cf69770cac7ca75b1e39a2cf0b6ff553e313cd85eb13177a3850fddd91"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/6.png",
+    "bytes": 1567,
+    "sha256": "3ccbedf1d8b7aac4056f69410337636c12bddd336818bdff00940bf21719eda1"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/7.png",
+    "bytes": 1538,
+    "sha256": "d77c6fe75de68aa7e9f83a7baeb0aa3b6dae53197b30eaafa539e0b4b0c65cc0"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/8.png",
+    "bytes": 1506,
+    "sha256": "5af948de69d2d8d34b54dd25a014f268329bf69d3a55f0b5d2761dcb6ff02e5a"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/9.png",
+    "bytes": 1535,
+    "sha256": "17c5890d6f2c2f7afd53acab573c5c090d32b03f0d038e7556f1a90d8f862a8c"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/arrow-down.png",
+    "bytes": 1825,
+    "sha256": "10116ec9d829bc708dd330ecd634706eef244069339964b07d6d5fb9e6dbeabc"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/arrow-left.png",
+    "bytes": 1731,
+    "sha256": "5ea30987e2aba7ea66c3a2b06a442663afec3ecdf239aca4c23c3f760068c67a"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/arrow-right.png",
+    "bytes": 1752,
+    "sha256": "93e8aa79ee3226f878a1abf705b11acfcc4c4ff9675cf9e402f72cb1dd5fcd68"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/arrow-up.png",
+    "bytes": 1833,
+    "sha256": "d00bf0b856a879efa5bb5a4ad31ee6ead5047ae1a19ba72b6a41b0af24e18e9a"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/coal.png",
+    "bytes": 866,
+    "sha256": "b2f97fe4bcd099464a15c9b64b3d60a3260b5adde5c1501b509129bb7f283fbe"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/cow.png",
+    "bytes": 1983,
+    "sha256": "e2f4229e756ef169770a68ba74e826fcdbb4ff87e8dd6addc32a4653e53ad4ea"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/debug-2.png",
+    "bytes": 5735,
+    "sha256": "c2ed38b43accb5891a1b994c44b4922fea818ccf26c3bca07ade627ccb2a4c90"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/debug-3.png",
+    "bytes": 5762,
+    "sha256": "533085d8459425783246ec160d09c7b6c8305b7875dcdd89fddd201c36606305"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/debug.png",
+    "bytes": 5761,
+    "sha256": "6d3dfdfa59b006aeade48e8737239e987e84f8ec7aae101864588971ce093e7d"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/debug_tile.png",
+    "bytes": 84,
+    "sha256": "ea6c4eabab89249e55aa717aaa9228f1a3942faafb4ad383f5cdb88be3cc6827"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/diamond.png",
+    "bytes": 839,
+    "sha256": "bf829ffe6da2745bb4c33c28c08da89857632c6b40275eb13a6a2ad12b111ea3"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/drink.png",
+    "bytes": 2492,
+    "sha256": "2f41572d8f2a32f3527c012999bc289a41f00c8c057b8262f9ce7561dc00a6a1"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/energy.png",
+    "bytes": 2213,
+    "sha256": "6cf2ba191225dd41fcbf0f7d19592f80c48dd75254792826bd06017d65f04b10"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/fence.png",
+    "bytes": 2449,
+    "sha256": "833eddb225c7f7951bf5ed920310c07ae295ce82ba37d11824f9c337e9060059"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/food.png",
+    "bytes": 2292,
+    "sha256": "d68036a77b8e4a39cb19ffa8b68cb41a6da1a0445eda6750c511b9340d7e654c"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/furnace.png",
+    "bytes": 910,
+    "sha256": "50e534adaba8b20473f87dabc34f2b41a091ad438a80c71e28f3533317316b4c"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/grass.png",
+    "bytes": 691,
+    "sha256": "7472c8bde25fa151fb44390b7ac138d4befe8cb25cd4f51fc394e48f7077050f"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/health.png",
+    "bytes": 2721,
+    "sha256": "bdec6a406466e2f67c9fab2e234fd3309e7d5f7b73770371b09c204688867510"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/iron.png",
+    "bytes": 1048,
+    "sha256": "f008b904df2dc96b2c279ae66d035676c31e59e3fc7a216f9f9279c9aa6ca911"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/iron_pickaxe.png",
+    "bytes": 2354,
+    "sha256": "f7aa1a76ac1a679b2b871a79787ae1e2085000dd731927f1b549ad0850c7a3c1"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/iron_sword.png",
+    "bytes": 2390,
+    "sha256": "97838202afa0aadf79de1f80a9b0530698bbe6409e88aea6687ade12f1a962ab"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/lava.png",
+    "bytes": 2130,
+    "sha256": "c1055f45abfb586adcd83e3d45bfe56ade2c5f4bcf3f7b559b0f1aae10aea2a6"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/leaves.png",
+    "bytes": 755,
+    "sha256": "3c3082108f7b304202eb32d31e888fccab275e0801b89f7f8e9ff6731659df83"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/log.png",
+    "bytes": 745,
+    "sha256": "7e46d49a17c40b122ba222ab2427387b87be9a24aab2761db4ca81d57139955d"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/path.png",
+    "bytes": 7488,
+    "sha256": "97f1f7d5e059f74727becf46043cf8555adafe5b6a613cad9f406580c12b405f"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/plant-ripe.png",
+    "bytes": 2154,
+    "sha256": "c81d02dfc8e04356b1ce4833f5493ea37fe834eecf666276abb2116a8fcc7bc0"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/plant-young.png",
+    "bytes": 2511,
+    "sha256": "ad8137230ce5299ad613858aaa1514d044965570f2426f33d99a3a0ee72df4f5"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/plant.png",
+    "bytes": 2080,
+    "sha256": "5fb13d8db6b845f08c0232f367694f7bc514a772d9daa0dae7414892c8da37ed"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/plant_on_grass.png",
+    "bytes": 219,
+    "sha256": "fd960b0bdd0e38e2728269076c412723dd5fe8fd3c75d8d10290b89df41fe410"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/player-down.png",
+    "bytes": 6186,
+    "sha256": "a8080519b7dc3e25f48a86cc009ed9d8f566ab3be6585edea04396c8b3307a1a"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/player-left.png",
+    "bytes": 6195,
+    "sha256": "3dc10f41b6d9de35fbf187198fbd12ec7063999778c69fe0610b46be7e580e42"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/player-right.png",
+    "bytes": 6212,
+    "sha256": "4819936965bfea9d6e49f0a982524707d20ce0169502fd58ea93d2eb45a18105"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/player-sleep.png",
+    "bytes": 6590,
+    "sha256": "2e1ee4820df89238cb2c05b0908c58950225a39799768534517b1269e6d881d7"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/player-up.png",
+    "bytes": 6144,
+    "sha256": "add9d032dbb89dbf5c8ea8ed1e216f5d6cb674af8cea5c8187cdbafca5793ac2"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/player.png",
+    "bytes": 813,
+    "sha256": "7888aeb07c336d1a46c8e800bb18ed4abb0411b23a9d89f365cf80d9fe8e116c"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/ripe_plant_on_grass.png",
+    "bytes": 245,
+    "sha256": "fccaec20ad123b3d8a8bc52f6a78aa1e6a2eab4f49e65b86bd0da07641d5b6c1"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/sand.png",
+    "bytes": 729,
+    "sha256": "0597e7be6eed69794298245776ce0c715bfd709be510e5dde39a57925f529c96"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/sapling.png",
+    "bytes": 1817,
+    "sha256": "f9d0e32b4b1e8e5add1dd3d4f8c16c281c5801b634e599c4821d7f81e7e47a3d"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/skeleton.png",
+    "bytes": 5993,
+    "sha256": "f101847fc480fb1a466b88747a2716f768e92a886621b0f78adb3781c1017d6e"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/stone.png",
+    "bytes": 7242,
+    "sha256": "b583094301e6040472e0cce41d33e2907cd3fcb6725d440dbcbafb74aa3b7522"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/stone_pickaxe.png",
+    "bytes": 2345,
+    "sha256": "9278c34d104f54f859c10fb639f4ad1e98c74d420e5e05de74b59bf26b2af01c"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/stone_sword.png",
+    "bytes": 2429,
+    "sha256": "5f730b59d737691b1d72346178253f830e947c00d395d96a52c17d5f4d3ccc27"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/table.png",
+    "bytes": 885,
+    "sha256": "1f0486085a197cc9331aa7f38e08d16cc34a00d147a5f7d4211e3b4ee7c2b3fe"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/tree.png",
+    "bytes": 7782,
+    "sha256": "6980c8bc2d440799f25e83e2c7fa1c9ee4716f49657c379468e99e47bd096af1"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/unknown.png",
+    "bytes": 2127,
+    "sha256": "e1348e977678022203289715d0a753daf4ef10184d7ff0d8b511c1256ca74194"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/water.png",
+    "bytes": 2198,
+    "sha256": "71a1c90fbd6cf37993149e07f1cca9cdd85f7e427298d8cdf7a37b53d2a2f280"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/wood.png",
+    "bytes": 1577,
+    "sha256": "1111de9fc2ebf2d23bda6c95db617b860531db56344a13f129b2d8969140b8e4"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/wood_pickaxe.png",
+    "bytes": 2045,
+    "sha256": "d4e967445261e455e888f8d27f6c5331d8e880c11bacd9387fcf11508a9ddcc4"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/wood_sword.png",
+    "bytes": 2453,
+    "sha256": "5af5aca75b7dba454c7176481b71c2e35d2fb1619acced88b14ca3732488e9ce"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/assets/zombie.png",
+    "bytes": 2089,
+    "sha256": "676685319782495aca2ad3a92c28add81353898292574eac2e6fc867d33bfa0a"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/constants.py",
+    "bytes": 15211,
+    "sha256": "aeef1794ad43ee847066c04d6c5364758af18f49de4b04d6d2d15fce9b6aa2b8"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/envs/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/envs/common.py",
+    "bytes": 505,
+    "sha256": "51f89ae914892e5b316695d93dec86319ad39c528ca3c1c40f7c80ebd40f8f20"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/envs/craftax_pixels_env.py",
+    "bytes": 5087,
+    "sha256": "37afb876d3677472a02cfa722a65737b23545098fe73ba5c3ad87d160ef64223"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/envs/craftax_state.py",
+    "bytes": 2086,
+    "sha256": "cee0dfe2d0be17803125e366180967dac9485e02d8fdbf10a10856e3cc6e082c"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/envs/craftax_symbolic_env.py",
+    "bytes": 5453,
+    "sha256": "ada5830c7a5af768ea1bffc7ad962300b11a6092e2943c4ecef7f1a9afbfcb65"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/game_logic.py",
+    "bytes": 59087,
+    "sha256": "f67c89e921ab643a192da1f2e6f73c46297aa37ed95f596cf6bbf033ec806d00"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/glyph_renderer.py",
+    "bytes": 4385,
+    "sha256": "bdb27b94004d679810c894f70ce53639789c7748b81ebd20191c75e5ea3e2770"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/play_craftax_classic.py",
+    "bytes": 4916,
+    "sha256": "60da53455fae8090c39b1374c053882ff7b43007a1748e8e977dbab098632f23"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/renderer.py",
+    "bytes": 25766,
+    "sha256": "f942a6b0bc90abee144e961f4470437381ed4217da9441d92c39efc76b2ad804"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/util/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/util/noise.py",
+    "bytes": 2290,
+    "sha256": "2a3d440037f5f9518d3ea2d216ba803e73956ab6fb1caa244e7a06eca5a45de0"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_classic/world_gen.py",
+    "bytes": 10914,
+    "sha256": "b532bd2941fbcec3f39290520c5d0090d0ef0d29283b14bfc3914e0ee8a16360"
+  },
+  {
+    "path": "vendor/Craftax/craftax/craftax_env.py",
+    "bytes": 3967,
+    "sha256": "f74d828dbc9802984e026ace29293527dfd3901cc945d3c7792d199dc92affa3"
+  },
+  {
+    "path": "vendor/Craftax/craftax/environment_base/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "vendor/Craftax/craftax/environment_base/environment_bases.py",
+    "bytes": 5536,
+    "sha256": "98701ae34d079d6b11ce9a7e6554208371bf110caddeab3deddadd044e944f7a"
+  },
+  {
+    "path": "vendor/Craftax/craftax/environment_base/spaces.py",
+    "bytes": 2012,
+    "sha256": "d148c63991f172f138d62d8572370df616cafd56ed47e6ca55f13818b50c864e"
+  },
+  {
+    "path": "vendor/Craftax/craftax/environment_base/util.py",
+    "bytes": 290,
+    "sha256": "5cc2681d866b9dfb3053eda8d50840884adc843a467f11aeb9071ffa86c953d8"
+  },
+  {
+    "path": "vendor/Craftax/images/logo.png",
+    "bytes": 5376,
+    "sha256": "b49e24c5280a4601c53292d2266190524ee4e5009cadca3a064ec77fe1a579b2"
+  },
+  {
+    "path": "vendor/Craftax/LICENSE",
+    "bytes": 1059,
+    "sha256": "ff84c271770b3b266e06a1bfc50b81e05dfb9811b55e9cfb546853c85190beef"
+  },
+  {
+    "path": "vendor/Craftax/MAINTENANCE.md",
+    "bytes": 1078,
+    "sha256": "aeae0917f480d917e60915ea5c591c78799f8a1975eacbaff1958f23d4c01264"
+  },
+  {
+    "path": "vendor/Craftax/obs_description.md",
+    "bytes": 2612,
+    "sha256": "3a4fa4d0b2ee4b51a5b5dca73c9686a2c714d175063fae5ab75e2fd934b9151c"
+  },
+  {
+    "path": "vendor/Craftax/pyproject.toml",
+    "bytes": 1177,
+    "sha256": "942291fc27c45e0548240ac0b09bfab41b32879ec69b0a694198920c37ddb9f2"
+  },
+  {
+    "path": "vendor/Craftax/README.md",
+    "bytes": 12387,
+    "sha256": "326a66836ae639916189271d54712eb537b27276e10434576ce7d839535ce4a9"
+  },
+  {
+    "path": "vendor/Craftax/tutorial.md",
+    "bytes": 8515,
+    "sha256": "b7346ca423a7bbbed9336227d5f717eef9ae7c1349e93482dab2f94508834a0b"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/.pre-commit-config.yaml",
+    "bytes": 120,
+    "sha256": "0e6e2634608f43b30f62fe0198080fb767488402c85ddd95695d4fad519014a0"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/analysis/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/analysis/view_ppo_agent.py",
+    "bytes": 5205,
+    "sha256": "6db7d3a3338667b54cd9e18f71c3c9de6b298696b5146b45de9c298557ad3256"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/images/logo.png",
+    "bytes": 6281,
+    "sha256": "d4b0598ab708077201dd14a3d5b31352ffe063ea4fc58c0f4485870f912bebdb"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/LICENSE",
+    "bytes": 1059,
+    "sha256": "ff84c271770b3b266e06a1bfc50b81e05dfb9811b55e9cfb546853c85190beef"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/logz/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/logz/batch_logging.py",
+    "bytes": 2487,
+    "sha256": "67a332d844060f2088eed0b0443bd9c07c3454366dfb59d368805e87fb41e97f"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/models/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/models/actor_critic.py",
+    "bytes": 8066,
+    "sha256": "046c2fe0df8c5042565d0d71a6c79e654ebe9edd6acffc176d72a77cee8d9f27"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/models/icm.py",
+    "bytes": 1592,
+    "sha256": "61df80f49095a20fb1dadbda3a8af5332ffabf095f3771a1668f58869aadec46"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/models/rnd.py",
+    "bytes": 3255,
+    "sha256": "683ecd70da0d7c0c805ce3d0ea583f0a4a298c5d1e94e8b867580a25da0c9e49"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/ppo.py",
+    "bytes": 27882,
+    "sha256": "0cd46d95476332070aa22b6c8a730126bcb1e7a7c668975fa5b827c5b955aec6"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/ppo_rnd.py",
+    "bytes": 25679,
+    "sha256": "fe2f9fd374d3bb1ce32d9974c0fb6099029013c549b91103752ac46330a78d24"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/ppo_rnn.py",
+    "bytes": 18982,
+    "sha256": "592f78abe2b6fe10a72ceffdfe7c67a9c5c5fe17c5297b15a551858e625ea674"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/README.md",
+    "bytes": 1120,
+    "sha256": "df5b139c830560480835347a5466e76127b71a66e808c8f28624960f566e7b3a"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/requirements.txt",
+    "bytes": 143,
+    "sha256": "56b9d1b7f76c7b4f71e7fff54c16d865af54b247dbd42cafb45b16087a2e552c"
+  },
+  {
+    "path": "vendor/Craftax_Baselines/wrappers.py",
+    "bytes": 7012,
+    "sha256": "8dcfe138ceae4cbd2a360e938208b8192c5678bc44298284445d7338d731590e"
+  },
+  {
+    "path": "verify.py",
+    "bytes": 2949,
+    "sha256": "5c87b3ed8229658b2565e8ae5fa6c0cdd842672fb857ac662e933f6849fabe3c"
+  }
+]

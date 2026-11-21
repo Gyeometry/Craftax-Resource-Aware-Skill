@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "phase55_episodes": 32768,
+  "phase56_episodes": 6144,
+  "model_pairs": 8,
+  "starts": 1423,
+  "completed": 1168,
+  "failed": 255,
+  "new_environment_steps": 0,
+  "new_training_updates": 0
+}

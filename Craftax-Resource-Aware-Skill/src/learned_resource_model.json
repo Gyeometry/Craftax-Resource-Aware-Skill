@@ -1,0 +1,59 @@
+{
+  "resource_lower": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "predicates": [
+    {
+      "predicate": "table",
+      "target_tile": 11,
+      "events": 43,
+      "worlds": 21,
+      "seeds": 8,
+      "action": 8,
+      "vectors": [
+        [
+          2,
+          0,
+          0,
+          0
+        ]
+      ],
+      "identified": true,
+      "cost": [
+        2,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "predicate": "furnace",
+      "target_tile": 12,
+      "events": 101,
+      "worlds": 24,
+      "seeds": 8,
+      "action": 9,
+      "vectors": [
+        [
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      "identified": true,
+      "cost": [
+        0,
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "source": "skill_gate1_only",
+  "all_identified": true,
+  "interpretation": "replacement construction budget, not minimum necessary execution cost"
+}
