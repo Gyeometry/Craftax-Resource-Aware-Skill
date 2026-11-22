@@ -1,0 +1,24 @@
+PolyForm Noncommercial License 1.0.0
+
+Official license terms:
+https://polyformproject.org/licenses/noncommercial/1.0.0
+
+SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
+Required Notice: Copyright (c) 2026 Gyeom Kim
+
+Project: Craftax-Resource-Aware-Skill
+
+The original project-specific software and modifications owned by Gyeom Kim are licensed under the PolyForm Noncommercial License 1.0.0, available at the official URL above.
+
+Noncommercial academic research, education, experimentation, reproduction, modification, and redistribution are permitted in accordance with the license terms.
+
+Commercial use of the covered software requires separate prior authorization from the copyright holder.
+
+Third-party software, including Craftax, Craftax_Baselines, PureJaxRL, and Gymnax, remains governed by its respective original licenses and copyright notices. This license does not replace or restrict those existing permissions.
+
+Model checkpoints, datasets, figures, and other separately identified assets are governed by their applicable permissions, including models/LICENSE.md where relevant.
+
+Acceptance or publication of a related research paper does not automatically change this license. Any future relicensing will be announced separately.
+
+Copyright (c) 2026 Gyeom Kim.
