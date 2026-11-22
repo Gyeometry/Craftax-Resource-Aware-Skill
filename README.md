@@ -2,6 +2,18 @@
 
 **강화학습 구현·확장 연구 프로젝트 및 포트폴리오**
 
+## 공동작업자 (Contributors)
+
+**한밭대학교 · 사물인터넷 프로젝트 2 · LINKLAB (오전반 12팀)**
+
+| 학번 | 이름 | GitHub |
+|---|---|---|
+| 20222018 | 김겸 | [Gyeometry](https://github.com/Gyeometry) |
+| 20221987 | 문형준 | [munh36369-ship-it](https://github.com/munh36369-ship-it/munh36369-ship-it) |
+| 20222049 | 채민기 | [chaemingi29-a11y](https://github.com/chaemingi29-a11y) |
+
+---
+
 본 프로젝트는 Craftax-Classic 환경에서 기존 PPO-RNN을 재현하고, 공개된 강화학습 기법을 적용한 뒤 남아 있는 정책의 한계를 분석하여 이를 보완하는 방법을 구현한 연구 프로젝트이다.
 
 먼저 기존 PPO-RNN에 **Invalid Action Masking**을 적용하여 기본 정책의 성능을 개선하였다. 이후 개선된 정책에서도 철 도구 제작에 필요한 자원을 확보하고도 작업대와 화로를 함께 이용할 수 있는 상태를 구성하지 못하는 문제가 관찰되었다.
