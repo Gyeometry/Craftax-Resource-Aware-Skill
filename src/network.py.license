@@ -1,0 +1,15 @@
+Source attribution for src/network.py
+
+Original ancestry:
+- Craftax_Baselines recurrent PPO classes (Copyright 2024 Michael Matthews; MIT).
+- PureJaxRL implementation ancestry (Copyright 2023 Chris Lu; Apache-2.0 where applicable).
+
+Project modifications:
+- Inference-oriented class extraction
+- Public action-mask input
+- Masked categorical action distribution
+
+Copyright (c) 2026 Gyeom Kim for independently owned project modifications only.
+Those modifications are subject to PolyForm Noncommercial License 1.0.0; the applicable original MIT/Apache terms remain in effect for the underlying material.
+
+See ../NOTICE, ../THIRD_PARTY_NOTICES.md and ../docs/LICENSE_SCOPE.md.

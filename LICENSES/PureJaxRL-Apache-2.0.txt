@@ -1,0 +1,6 @@
+PureJaxRL upstream attribution
+Original project: https://github.com/luchris429/purejaxrl
+Copyright 2023 Chris Lu
+License: Apache License, Version 2.0
+The full license terms are included at Apache-2.0.txt in this directory.
+Historical source revision is not independently verified.

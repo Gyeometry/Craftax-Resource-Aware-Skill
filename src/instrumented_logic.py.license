@@ -1,0 +1,13 @@
+Source attribution for src/instrumented_logic.py
+
+Original ancestry:
+Craftax Classic game logic, including update_mobs and craftax_step.
+Copyright (c) 2024 Michael Matthews; MIT License.
+
+Project modifications:
+Audit-oriented AST-derived copies that return existing intermediate event values without intentionally changing physical state transition semantics.
+
+Copyright (c) 2026 Gyeom Kim for independently owned project modifications only.
+These modifications are subject to PolyForm Noncommercial License 1.0.0. The original code remains under its original MIT permissions.
+
+See ../NOTICE and ../THIRD_PARTY_NOTICES.md.

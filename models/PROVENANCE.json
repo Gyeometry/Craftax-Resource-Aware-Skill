@@ -1,0 +1,149 @@
+[
+  {
+    "file": "models/head_model.msgpack",
+    "sha256": "0b6eaa4a13b00b61977a6d5b0c834f3552bb14baae2d10b46541d4fb2d3ae66e",
+    "bytes": 764592,
+    "training": "local_MLP_A1_plan_feasibility_classifier",
+    "training_origin": [
+      "phase55_initiation_confirmation_waiting/head_model.msgpack",
+      "phase54_skill_initiation_timing/head_model.msgpack"
+    ],
+    "rights_holder": "UNCONFIRMED"
+  },
+  {
+    "file": "models/PPO_138101.msgpack",
+    "sha256": "f7d7d93834b0bdc302facb0e35a5c7bb01076d45d5e3750b06737ccfe158b222",
+    "bytes": 13296506,
+    "training": "local_PPO_T0_10485760_steps",
+    "training_origin": "phase50_planner_policy_internalization/seeds/138101/checkpoint_10485760.msgpack",
+    "export_axis": 0,
+    "rights_holder": "UNCONFIRMED"
+  },
+  {
+    "file": "models/PPO_138102.msgpack",
+    "sha256": "e3350f6666beb6b5e4934ffba67a79d7a15bd86f58c95bc24aa4c2c5030d33b7",
+    "bytes": 13296506,
+    "training": "local_PPO_T0_10485760_steps",
+    "training_origin": "phase50_planner_policy_internalization/seeds/138102/checkpoint_10485760.msgpack",
+    "export_axis": 0,
+    "rights_holder": "UNCONFIRMED"
+  },
+  {
+    "file": "models/PPO_138103.msgpack",
+    "sha256": "c3f1d26396a6e2265ad38d1aeb8d2763530fbf79abde5135ec684b611fc9a769",
+    "bytes": 13296506,
+    "training": "local_PPO_T0_10485760_steps",
+    "training_origin": "phase50_planner_policy_internalization/seeds/138103/checkpoint_10485760.msgpack",
+    "export_axis": 0,
+    "rights_holder": "UNCONFIRMED"
+  },
+  {
+    "file": "models/PPO_138104.msgpack",
+    "sha256": "23f7a0aaa99a4e016f9db7bdd59bda4f7ab5eaf0c550fae428837bf65d1ad71d",
+    "bytes": 13296506,
+    "training": "local_PPO_T0_10485760_steps",
+    "training_origin": "phase50_planner_policy_internalization/seeds/138104/checkpoint_10485760.msgpack",
+    "export_axis": 0,
+    "rights_holder": "UNCONFIRMED"
+  },
+  {
+    "file": "models/PPO_138105.msgpack",
+    "sha256": "316029c28933622582781c4f7a449b84c7f3a11d4a75acae15c0ad6b0c974562",
+    "bytes": 13296506,
+    "training": "local_PPO_T0_10485760_steps",
+    "training_origin": "phase50_planner_policy_internalization/seeds/138105/checkpoint_10485760.msgpack",
+    "export_axis": 0,
+    "rights_holder": "UNCONFIRMED"
+  },
+  {
+    "file": "models/PPO_138106.msgpack",
+    "sha256": "50c6021c8603b928dfb9659ff99deebb39626c79d55e97280a34d86d6f1be3e8",
+    "bytes": 13296506,
+    "training": "local_PPO_T0_10485760_steps",
+    "training_origin": "phase50_planner_policy_internalization/seeds/138106/checkpoint_10485760.msgpack",
+    "export_axis": 0,
+    "rights_holder": "UNCONFIRMED"
+  },
+  {
+    "file": "models/PPO_138107.msgpack",
+    "sha256": "d8b6dd7f4b026c972779f652e19e69fd2ba6b6ead039024844147d343243f395",
+    "bytes": 13296506,
+    "training": "local_PPO_T0_10485760_steps",
+    "training_origin": "phase50_planner_policy_internalization/seeds/138107/checkpoint_10485760.msgpack",
+    "export_axis": 0,
+    "rights_holder": "UNCONFIRMED"
+  },
+  {
+    "file": "models/PPO_138108.msgpack",
+    "sha256": "d6661f076d399c56a3add0673d225e109d391867ebcc8f3515b8c75946a4e178",
+    "bytes": 13296506,
+    "training": "local_PPO_T0_10485760_steps",
+    "training_origin": "phase50_planner_policy_internalization/seeds/138108/checkpoint_10485760.msgpack",
+    "export_axis": 0,
+    "rights_holder": "UNCONFIRMED"
+  },
+  {
+    "file": "models/Skill_153101.msgpack",
+    "sha256": "30827929168708c6bd9f2afcb6fff3d4982fb5260abb23f9a8114576f0884466",
+    "bytes": 1588339,
+    "training": "local_BC_A1_demonstrations",
+    "training_origin": "phase53_policy_preserving_skill_learning/models/153101/last.msgpack",
+    "rights_holder": "UNCONFIRMED"
+  },
+  {
+    "file": "models/Skill_153102.msgpack",
+    "sha256": "b813e1889cc99fe9e09b7270168c2d11ab29577c55f4d1b2d01e3b76f0c7a6a7",
+    "bytes": 1588339,
+    "training": "local_BC_A1_demonstrations",
+    "training_origin": "phase53_policy_preserving_skill_learning/models/153102/last.msgpack",
+    "rights_holder": "UNCONFIRMED"
+  },
+  {
+    "file": "models/Skill_153103.msgpack",
+    "sha256": "f1c7cbf3ea571f71c73fc39e332826e6959e56c994889e13c4c8961b2d6ef443",
+    "bytes": 1588339,
+    "training": "local_BC_A1_demonstrations",
+    "training_origin": "phase53_policy_preserving_skill_learning/models/153103/last.msgpack",
+    "rights_holder": "UNCONFIRMED"
+  },
+  {
+    "file": "models/Skill_153104.msgpack",
+    "sha256": "e998039d78a1bb935afc0a22b5ee52a908e0a9df68c0dce4d4bb0cf9c4a2d2a2",
+    "bytes": 1588339,
+    "training": "local_BC_A1_demonstrations",
+    "training_origin": "phase53_policy_preserving_skill_learning/models/153104/last.msgpack",
+    "rights_holder": "UNCONFIRMED"
+  },
+  {
+    "file": "models/Skill_153105.msgpack",
+    "sha256": "d915fe46abada4c906d47b1ccb9809b1a7410b1b5348861bfed998b67f3ecb84",
+    "bytes": 1588339,
+    "training": "local_BC_A1_demonstrations",
+    "training_origin": "phase53_policy_preserving_skill_learning/models/153105/last.msgpack",
+    "rights_holder": "UNCONFIRMED"
+  },
+  {
+    "file": "models/Skill_153106.msgpack",
+    "sha256": "7e02c3a8b69721775c167bf34d8c3798bbbda67b97ee6498e5a3f804ebdba7b0",
+    "bytes": 1588339,
+    "training": "local_BC_A1_demonstrations",
+    "training_origin": "phase53_policy_preserving_skill_learning/models/153106/last.msgpack",
+    "rights_holder": "UNCONFIRMED"
+  },
+  {
+    "file": "models/Skill_153107.msgpack",
+    "sha256": "25cd898336c10f01ce1692f9f3043308874d8cc820f13c0b9ed02a7d1fe5def6",
+    "bytes": 1588339,
+    "training": "local_BC_A1_demonstrations",
+    "training_origin": "phase53_policy_preserving_skill_learning/models/153107/last.msgpack",
+    "rights_holder": "UNCONFIRMED"
+  },
+  {
+    "file": "models/Skill_153108.msgpack",
+    "sha256": "5d6d96784b53397d05cc0fae8800d50a7cee3bf5f78fd46772c4f8f6fb6dbfd2",
+    "bytes": 1588339,
+    "training": "local_BC_A1_demonstrations",
+    "training_origin": "phase53_policy_preserving_skill_learning/models/153108/last.msgpack",
+    "rights_holder": "UNCONFIRMED"
+  }
+]

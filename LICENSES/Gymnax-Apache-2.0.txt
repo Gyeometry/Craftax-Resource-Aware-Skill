@@ -1,0 +1,6 @@
+Gymnax upstream attribution
+Original project: https://github.com/RobertTLange/gymnax
+Copyright 2020 Rémi Louf (as recorded in the supplied upstream license copy)
+License: Apache License, Version 2.0
+The full license terms are included at Apache-2.0.txt in this directory.
+Historical source revision is not independently verified.

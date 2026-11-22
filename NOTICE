@@ -1,0 +1,20 @@
+Craftax Resource-Aware Skill — Source attribution and modification notices
+
+Project-specific implementation and modifications:
+Copyright (c) 2026 Gyeom Kim
+Licensed under PolyForm Noncommercial License 1.0.0, subject to third-party and asset-specific terms.
+
+Craftax / Craftax_Baselines:
+Copyright (c) 2024 Michael Matthews
+Original MIT license notices remain in vendor/Craftax/LICENSE and vendor/Craftax_Baselines/LICENSE.
+
+The bundled PPO baseline identifies code adapted from Chris Lu's PureJaxRL (Apache-2.0).
+The bundled environment base identifies code adapted from Gymnax (Apache-2.0).
+See the full Apache License and source-specific attribution files in LICENSES/.
+
+src/network.py is extracted and modified from Craftax_Baselines PPO-RNN classes, with additional inference packaging and masked action distribution inputs.
+src/instrumented_logic.py is derived from Craftax game logic, adding intermediate values for auditing.
+
+The original third-party portions remain subject to their original permissions; only independently owned project modifications are subject to the project's PolyForm Noncommercial license.
+
+This file does not license model checkpoints or evaluation data, and does not imply that any upstream project shipped a NOTICE file.
